@@ -1,0 +1,166 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <Filter Include="源文件">
+      <UniqueIdentifier>{4FC737F1-C7A5-4376-A066-2A32D752A2FF}</UniqueIdentifier>
+      <Extensions>cpp;c;cc;cxx;c++;cppm;ixx;def;odl;idl;hpj;bat;asm;asmx</Extensions>
+    </Filter>
+    <Filter Include="头文件">
+      <UniqueIdentifier>{93995380-89BD-4b04-88EB-625FBE52EBFB}</UniqueIdentifier>
+      <Extensions>h;hh;hpp;hxx;h++;hm;inl;inc;ipp;xsd</Extensions>
+    </Filter>
+    <Filter Include="资源文件">
+      <UniqueIdentifier>{67DA6AB6-F800-4c08-8B7A-83BB121AAD01}</UniqueIdentifier>
+      <Extensions>rc;ico;cur;bmp;dlg;rc2;rct;bin;rgs;gif;jpg;jpeg;jpe;resx;tiff;tif;png;wav;mfcribbon-ms</Extensions>
+    </Filter>
+  </ItemGroup>
+  <ItemGroup>
+    <ClCompile Include="215_88_合并两个有序数组.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="215_27_移除元素.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="216_26_删除有序数组中的重复项.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="216_80_删除有序数组中的重复项II.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="217_169_多数元素_STAR.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="217_189_轮转数组.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="218_121_买卖股票的最佳时机.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="218_122_买卖股票的最佳时机II.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="220_55_跳跃游戏.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="220_45_跳跃游戏II.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="224_274_H指数.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="224_380_O1时间插入删除获取随机元素.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="306_135_分发糖果.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="306_42_接雨水.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="310_238_除自身以外数组的乘积.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="616_13_罗马数字转整数.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="616_12_整数转罗马数字.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="617_58_最后一个单词的长度.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="617_14_最长公共前缀.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="617_134_加油站.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="617_28_找出字符串中第一个匹配项的下标.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="617_151_反转字符串中的单词.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="617_6_Z字形变换.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="618_68_文本左右对齐.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="618_383_赎金信.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="618_205_同构字符串.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="618_290_单词规律.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="618_125_验证回文串.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="618_392_判断子序列.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="619_167_两数之和2.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="619_11_盛最多水的容器.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="619_15_三数之和.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="619_202_快乐数.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="623_109_长度最小的子数组.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="623_3_无重复字符的最长子串.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="624_30_串联所有单词的子串.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="624_有效的字母异位词.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="624_1_两数之和.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="624_219_存在重复元素II.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="821_76_最小覆盖子串.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="821_20_有效的括号.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="821_36_有效的数独.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="821_54_螺旋矩阵.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="822_48_旋转图像.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="822_73_矩阵置零.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="822_289_生命游戏.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="822_49_字母异位词分组.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="822_128_最长连续序列.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="224_380_O1" />
+  </ItemGroup>
+</Project>
