@@ -160,7 +160,4 @@
       <Filter>源文件</Filter>
     </ClCompile>
   </ItemGroup>
-  <ItemGroup>
-    <None Include="224_380_O1" />
-  </ItemGroup>
 </Project>

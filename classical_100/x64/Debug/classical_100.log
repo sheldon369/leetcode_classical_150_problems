@@ -1,2 +1,3 @@
-﻿  822_128_最长连续序列.cpp
-E:\desktop\剑指offer\classical_100\822_128_最长连续序列.cpp(15,16): error C1075: “{”: 未找到匹配令牌
+﻿  823_57_插入区间.cpp
+MSVCRTD.lib(exe_main.obj) : error LNK2019: 无法解析的外部符号 main，函数 "int __cdecl invoke_main(void)" (?invoke_main@@YAHXZ) 中引用了该符号
+E:\desktop\剑指offer\classical_100\x64\Debug\classical_100.exe : fatal error LNK1120: 1 个无法解析的外部命令
